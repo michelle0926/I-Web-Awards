@@ -1,0 +1,40 @@
+h1 {
+    color:indianred;
+   font-family: 'Playfair Display SC', serif;
+}
+.best-movie {
+    color:cornflowerblue;
+    font-family: 'Volkhov', serif;
+}
+.panther {
+    color:royalblue;
+    font-family: 'El Messiri', sans-serif;
+}
+.best-show {
+    color:orchid;
+    font-family: 'Nanum Myeongjo', serif;
+}
+.jane {
+    color:darkorchid;
+    font-family: 'Cinzel Decorative', cursive;
+}
+.best-fem-artist {
+    color:hotpink;
+    font-family: 'Oleo Script', cursive;
+}
+.cardi {
+    color:gold;
+    font-family: 'EB Garamond', serif;
+}
+.best-male-artist {
+    color:crimson;
+     font-family: 'Norican', cursive;
+}
+.cole {
+    color:darkmagenta;
+    font-family: 'Playfair Display SC', serif;
+}
+body {
+    text-align:center;
+    background-image:url(https://i.gifer.com/7Far.gif);
+}
